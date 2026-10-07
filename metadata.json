@@ -1,0 +1,6 @@
+{
+  "name": "Garden Properties - Where Nature Meets Home",
+  "description": "Curated collection of comfortable, fully furnished rental properties and guest houses across premier locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
